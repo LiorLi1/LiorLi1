@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lior Liberov</h1>
-<h3 align="center">A Software Engineering Graduate and a Cyber Security Enthusiast</h3>
+<h3 align="center">A Software Engineering Graduate</h3>
 
 - 📫 How to reach me **liorliber17@outlook.com**
 
